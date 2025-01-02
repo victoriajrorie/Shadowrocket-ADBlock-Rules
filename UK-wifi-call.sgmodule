@@ -1,3 +1,9 @@
+#!name=UK-wifi-call
+#!desc=UK-wifi-call 代理规则模块
+# 仓库地址：https://github.com/victoriajrorie/Shadowrocket-ADBlock-Rules
+
+
+[Rule]
 # 地区检测
 DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com,PROXY
 # 沃达丰
